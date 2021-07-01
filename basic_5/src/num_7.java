@@ -4,7 +4,7 @@ public class num_7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
-        for(int j= 0;j<t;j++){
+        for(int j = 0;j<t;j++){
             int N = sc.nextInt();
             float sum =0;
             float count = 0;
