@@ -20,7 +20,7 @@ public class num_7 {
                 }
             }
 
-            System.out.printf("%.3f%%",count/N*100);
+            System.out.printf("%.3f%%\n",count/N*100);
         }
 
     }
